@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="ruQZ1rBnktLYvQLbM41w" name="products">
-        <mxGraphModel dx="757" dy="401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="562" dy="289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="85" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=12;fontColor=default;strokeColor=#000000;strokeWidth=2;fillColor=none;container=1;flipV=0;flipH=1;rotation=0;" parent="1" vertex="1">
+                <mxCell id="85" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=12;fontColor=#ffffff;strokeColor=#A50040;strokeWidth=2;fillColor=#d80073;container=1;flipV=0;flipH=1;rotation=0;" parent="1" vertex="1">
                     <mxGeometry x="696" y="19" width="291" height="33" as="geometry">
                         <mxRectangle x="272" y="54" width="50" height="44" as="alternateBounds"/>
                     </mxGeometry>
@@ -284,7 +284,7 @@
                 <mxCell id="58Lv8EifrvW3tVPBx_WG-362" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;labelBorderColor=none;fontSize=12;fontColor=#000000;fillColor=none;strokeColor=#000000;flipV=0;flipH=1;rotation=0;rounded=0;" parent="58Lv8EifrvW3tVPBx_WG-357" vertex="1">
                     <mxGeometry x="176" width="10" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="Td56yUJFE5Z-MN7NmqeU-97" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="Td56yUJFE5Z-MN7NmqeU-97" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="16" y="17" width="293" height="541" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="products" style="swimlane;startSize=45;fontSize=16;strokeColor=#000000;swimlaneLine=0;fontColor=default;strokeWidth=0;rounded=0;" parent="Td56yUJFE5Z-MN7NmqeU-97" vertex="1">
